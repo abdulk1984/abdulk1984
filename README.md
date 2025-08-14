@@ -1,6 +1,6 @@
 <!-- ===== TOP BANNER ===== -->
-<div align="center"> 
-  <img src="./assets/Abdulkarim_LinkedIn_Profile_Banner.png" alt="Profile Banner" width="100%" />
+<div align="center">
+  <img src="assets/Abdulkarim_LinkedIn_Profile_Banner.png" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">عبدالكريم السري | Abdulkarim Al‑Serri</h1>

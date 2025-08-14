@@ -2,7 +2,8 @@
 <div align="center">
   <img src="./assets/Abdulkarim_LinkedIn_Profile_Banner.png" alt="Profile Banner" width="100%" />
 </div>
-
+<h1> عبدالكريم السري | Abdulkarim Al-Serri </h1>
+<h1> Full Stack Developer | IT & Business Development Consultant | Abdulkarim.alserri1@gmail.com | <a href="www.linkedin.com/in/serri">LinkedIn Profile</a></h1>
 <!-- ===== HELLO & INTRO GIFS ===== -->
 <div align="center" width="50">
 

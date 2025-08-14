@@ -1,9 +1,19 @@
 <!-- ===== TOP BANNER ===== -->
-<div align="center">
+<div align="center"> 
   <img src="./assets/Abdulkarim_LinkedIn_Profile_Banner.png" alt="Profile Banner" width="100%" />
 </div>
-<h1> </center>عبدالكريم السري | Abdulkarim Al-Serri </center></h1>
-<h2><center> Full Stack Developer | IT & Business Development Consultant | Abdulkarim.alserri1@gmail.com | <a href="www.linkedin.com/in/serri">LinkedIn Profile</a></center></h2>
+
+<h1 align="center">عبدالكريم السري | Abdulkarim Al‑Serri</h1>
+
+<!-- Single line, centered, no wrapping -->
+<div align="center">
+  <span style="white-space:nowrap;">
+    <strong>Full Stack Developer | IT &amp; Business Development Consultant</strong> |
+    <a href="mailto:Abdulkarim.alserri1@gmail.com">Abdulkarim.alserri1@gmail.com</a> |
+    <a href="https://www.linkedin.com/in/serri">LinkedIn Profile</a>
+  </span>
+</div>
+
 <!-- ===== HELLO & INTRO GIFS ===== -->
 <div align="center" width="50">
 

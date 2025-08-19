@@ -50,55 +50,62 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 
-```dart
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "JavaScript", "TypeScript", "Dart" },
-    "Frameworks" : { "Next.js", "NestJS", "Flutter", "React Native" },
-    "Database" : { "PostgreSQL", "MongoDB" },
-    "DevOps" : { "Docker", "Git", "Linux" },
-    "Editors" : { "Vscode" },
-    "DesignTools" : { "Figma", "Photoshop" }
-  };
-}
+<!-- ===== QUICK SKILLS (NOT CODE) ===== -->
+<ul>
+  <li><strong>Frontend:</strong> Next.js, React, Flutter, React Native</li>
+  <li><strong>Backend:</strong> NestJS, Node.js, REST, GraphQL</li>
+  <li><strong>Databases:</strong> PostgreSQL, MongoDB</li>
+  <li><strong>DevOps:</strong> Docker, Linux, CI/CD (GitHub Actions)</li>
+  <li><strong>Other:</strong> Agile delivery, API design, Product/Business analysis</li>
+</ul>
+
+<hr/>
 
 
-🎓 Education & Certifications
+<!-- ===== EDUCATION & CERTIFICATIONS ===== -->
+<h2 align="center">🎓 Education & Certifications</h2>
 
-Master’s in International Cooperation and Humanitarian Aid – KALU Institute, Spain (2023)
+<ul>
+  <li><strong>Master’s in International Cooperation and Humanitarian Aid</strong> – KALU Institute, Spain (2023)</li>
+  <li><strong>Bachelor’s Degree</strong> – Information Technology &amp; Internet (2010)</li>
+  <li><strong>Higher Diploma</strong> – Computer Software Applications Technology (2008)</li>
+  <li><strong>Cisco CCNA Diploma</strong> – Networking &amp; Infrastructure (2014)</li>
+  <li><strong>IELTS Academic Certificate</strong> – British Council, Cairo (2021)</li>
+  <li><strong>Safeguarding Focal Point Training</strong> – International Medical Corps (2023)</li>
+</ul>
 
-Bachelor’s Degree – Information Technology & Internet (2010)
-
-Higher Diploma – Computer Software Applications Technology (2008)
-
-Cisco CCNA Diploma – Networking & Infrastructure (2014)
-
-IELTS Academic Certificate – British Council, Cairo (2021)
-
-Safeguarding Focal Point Training – International Medical Corps (2023)
+<hr/>
 
 <!-- ===== ABOUT ME ===== -->
+<ul>
+  <li><img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> I’m currently building <strong>Full‑Stack Web & Mobile Apps</strong>. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" /></li>
+  <li><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Passionate about <strong>IT Solutions & Business Consulting</strong>.</li>
+  <li><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about <strong>Next.js, NestJS, or Digital Transformation</strong>.</li>
+  <li><img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Find me on LinkedIn: <a href="https://www.linkedin.com/in/serri"><strong>Abdulkarim Al‑Serri</strong></a></li>
+  <li><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact: I bridge <strong>full‑stack coding</strong> with <strong>business growth strategy</strong>.</li>
+</ul>
 
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently working on Full Stack Web & Mobile Apps. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+<hr/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    Passionate about IT Solutions & Business Consulting. <br>
+<!-- ===== GITHUB STATS ===== -->
+<div align="center">
+  <a href="https://github.com/abdulk1984">
+    <img src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  </a>
+  <details>
+    <summary>More stats</summary>
+    <img align="center" src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+  </details>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about Next.js, NestJS, or Digital Transformation. <br>
+  <hr/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on LinkedIn: Abdulkarim Al-Serri<br>
-
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: My tech career bridges full-stack coding with business growth strategy.<br>
-
-<!-- ===== GITHUB STATS ===== --> <div align="center"> <a href="https://github.com/abdulk1984"> <img src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>More stats</summary> <img align="center" src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > </details> <hr></hr>
-
-Code Cycle<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging..."/>
-     
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-     
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Magic!"/><br>
-
-</div> ```
-
+  <b>Code Cycle</b><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging..."/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Magic!"/>
+</div>
 
